@@ -1,1 +1,2 @@
 I'm Practicing git pull. Saving this file on GitHub
+Finally I got this on my local machine. Now sending to github back again.
